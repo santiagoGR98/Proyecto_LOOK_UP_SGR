@@ -1,0 +1,3 @@
+PROYECTO LOOK UP creado por Santiago Gutiérrez Romero Alumno 1ºASIR Grupo 2 Módulo Gestión Bases de Datos
+
+La estructura de este proyecto se basa en tres directorios, el 1º de ellos (DOC) en el cual encontramos documentación sobre el operador $lookup y más operadores de aggregate, el 2º directorio (SRC) que contiene inserciones en para dos colecciones las cuales tienen una relación en cuanto a categorías y productos 1:N y un archivo de consultas sobre dichas colecciones, y el 3º y último directorio (SRC2) el cual tiene la misma disposición que el segundo solo que las colecciones se han modificado para que presenten una relación N:M, además también se incluye un archivo de consultas aplicadas sobre dichas colecciones.
